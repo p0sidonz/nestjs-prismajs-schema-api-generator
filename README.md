@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# nestjs-prismajs-schema-api-generator
+![Screenshot 1](https://i.ibb.co/M7xvzDq/Screenshot-2024-08-25-at-2-12-00-PM.png)
+![Screenshot 2](https://i.ibb.co/MDMHMwc/Screenshot-2024-08-25-at-2-12-13-PM.png)
